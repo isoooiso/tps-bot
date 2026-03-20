@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+tps_state.json
+tps_trades.csv
+tps_bot.log
+.env
